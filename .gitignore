@@ -1,1 +1,14 @@
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+packages/
